@@ -1,4 +1,3 @@
-# Basic-Portfolio
-Assignment 1
-this is the first assignment for the class
-link: 
+# Gavin-Portfolio
+This is my developer Portfolio
+link: https://gavinw93.github.io/Gavin-Portfolio/
